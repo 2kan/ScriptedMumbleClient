@@ -1,0 +1,8 @@
+# Ignore general build output crap.
+bin/
+obj/
+
+# Ignore Visual Studio crap.
+*.suo
+*.sdf
+*.opensdf
