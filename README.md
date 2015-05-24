@@ -1,7 +1,7 @@
 ![alt tag](docs/unbannable.png)
 # Scripted Mumble Client
 
-A headless client for Mumble/Murmur using the <<to be decided>> scripting language.
+A headless client for Mumble/Murmur using the &lt;to be decided&gt; scripting language.
 This project is totally WIP and doesn't even work yet.
 
 
