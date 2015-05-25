@@ -1,4 +1,4 @@
-![alt tag](docs/unbannable.png)
+![I'm freaking unbannable!](docs/unbannable.png)
 # Scripted Mumble Client
 
 A headless client for Mumble/Murmur using the &lt;to be decided&gt; scripting language.
